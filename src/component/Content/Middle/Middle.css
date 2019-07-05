@@ -1,0 +1,27 @@
+.middleconten {
+    overflow: hidden;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+.middleconten div {
+    width: 300px;
+    height: 300px;
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: #28d2d0;
+    opacity: 0.3;
+}
+
+.middleconten div:hover {
+   border: solid 1px black;
+}
+

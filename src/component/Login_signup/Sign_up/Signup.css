@@ -1,0 +1,129 @@
+.conteiner{
+    width: 1170px;
+    height: auto;
+    margin: 0 auto;
+    padding: 20px 0;
+    position: relative;
+}
+
+body .sign-up{
+    margin-top: 26px;
+    padding: 0 49px 0 45px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+
+.sign-up_btn{
+    display: inline-block;
+    width: 3%;
+    margin-top: 0;
+    position: relative;
+}
+
+.sign-up_btn a{
+    padding: 10px 15px;
+    border: 1px solid #cacaca;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    margin-top:10px;
+    text-decoration: none;
+    color: #718888;
+    right: 0px;
+}
+
+.sign-up_conteiner{
+    width: 595px;
+    height: auto;
+    padding: 10px 20px 30px;
+    margin:0 auto;
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.info{
+    text-align: center;
+    margin:0;
+    padding: 0;
+
+}
+
+.info h2{
+    margin-left: 60px;
+    margin-bottom: 18px;
+    color: #28d2d0;
+    font-size: 38px;
+}
+
+.field-conteiner{
+    padding: 0 14px 1.15rem;
+    display: flex;
+}
+
+input.example{
+    margin: 0;
+    width: 100%;
+    font-size: 16px;
+    height: auto;
+    padding: 21px 23px;
+    display:inline-block;
+    border:2px solid #cacaca;
+    border-radius: 4px;
+
+}
+
+.op{
+    padding-top: 7px;
+    background-color: #28d2d0;
+    height: 64px;
+    width: 520px;
+    font-size: 16px;
+    font-weight: 600;
+    color:white;
+    cursor: pointer;
+    border-radius: 4px;
+
+}
+
+#join-as-client{
+    display: inline-block;
+    float: left;
+}
+
+.join-as{
+    margin: 15px;
+}
+
+.join-as label{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 10px;
+    font-weight: normal;
+    color: #718888;
+}
+
+.join-as input{
+    display: inline-block;
+    width: 25px;
+    float: left;
+    margin-top: 14px;
+
+}
+.field-conteiner a {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}

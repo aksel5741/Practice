@@ -1,0 +1,22 @@
+.header-top{
+height: 40px;
+
+}
+
+.header-top-container{
+	border-bottom: solid 0.5px #CACACA;
+	height: 40px;
+	display: flex;	
+}
+.phone{
+	margin-left: 125px;
+	height: 40px;
+	width: 200px;
+	display: flex;	
+	border-left: solid 0.5px #CACACA;
+	border-right: solid 0.5px #CACACA;
+}
+.phone div{
+	margin-top: 10px;
+	margin-left: 50px;
+}

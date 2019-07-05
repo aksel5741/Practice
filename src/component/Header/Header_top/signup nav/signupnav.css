@@ -1,0 +1,35 @@
+NavLink{
+	color: #337ab7;
+	text-decoration: none;
+}
+
+.login_signup{
+	height: 40px;
+	width: 585px;
+	margin: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+	position: relative;
+}
+
+.login-signup-nav{
+	border-left:1px solid #cacaca;
+	padding: 0;
+	margin: 0;
+	float:right;
+	text-align: center;
+}
+
+.login-signup-nav li{
+	display: inline-block;
+	position: relative;
+}
+
+.login-signup-nav li a{
+	text-transform: inherit;
+	border-right: 1px solid #cacaca;
+	padding: 0 15px;
+	line-height: 40px;
+	color: #718888;
+}
+
